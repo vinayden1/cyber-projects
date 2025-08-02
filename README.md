@@ -1,4 +1,4 @@
-# Cybersecurity Analyst Portfolio
+# Cybersecurity Analyst Portfolio: Vinay Nayak
 
 This repository contains a collection of projects and lab exercises completed as part of the **Google Cybersecurity Professional Certificate** program. These artifacts demonstrate hands-on experience with incident response, risk analysis, access control, compliance frameworks, and basic scripting — all aligned with cybersecurity best practices.
 
